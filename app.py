@@ -11,7 +11,7 @@ CSV_FILE = "history.csv"
 # Thực đơn cố định của nhà hàng Mr. AN 
 menu = {
     "Đồ ăn": {
-        "Pizza Hải Sản": 150000,
+        "GA HAP": 150000,
         "Mì Ý Bò Bằm": 95000,
         "Burger Gà": 65000,
         "Salad Trộn": 50000,
